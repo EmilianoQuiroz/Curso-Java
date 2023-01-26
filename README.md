@@ -13,4 +13,4 @@
 - Tipos de datos en Python.
     + Tipos de datos básicos.
     + Entrada de datos por consola.
-   
+- Operadores en Pyrthon.
