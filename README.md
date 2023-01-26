@@ -3,7 +3,7 @@
   - Fuentes principales:
       + Curso de Udemy (+70hs).
       + Documentacion oficial.
-      + Cursos de YouTube.
+      + YouTube.
 ---
 
 # Glosario de temas.
