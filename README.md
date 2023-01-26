@@ -7,3 +7,10 @@
 ---
 
 # Glosario de temas.
+
+- Introduccón a Python.
+- Variables en Python.
+- Tipos de datos en Python.
+    + Tipos de datos básicos.
+    + Entrada de datos por consola.
+   
